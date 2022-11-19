@@ -1,0 +1,38 @@
+body {
+    background-color: darkseagreen;
+}
+h1 {
+    text-align: center;
+    color:darkslategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    margin-right: 220px;
+}
+p { 
+    text-align: center;
+    color:darkcyan;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large
+}
+ul { 
+    color:teal;
+}
+img {
+    margin-top: 50px;
+}
+h2 {
+    text-align: center;
+    margin-top: 180px;
+    margin-right: 200px;
+}
+h3 {
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4 { 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color:darkcyan;
+    margin-right: 200px ;
+}
